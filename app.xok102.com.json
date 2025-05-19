@@ -1,5 +1,8 @@
 {
   "url": "https://app.xok102.com/",
   "enable": true,
-  "orientation": 0
+  "orientation": 0,
+  "hideStatusBar": false,
+  "enableFullScreen": false,
+  "edges": ["top"]
 }
