@@ -4,5 +4,5 @@
   "orientation": -1,
   "hideStatusBar": false,
   "enableFullScreen": false,
-  "edges": ["top","bottom"]
+  "edges": ["top"]
 }
