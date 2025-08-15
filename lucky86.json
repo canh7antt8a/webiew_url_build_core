@@ -1,7 +1,7 @@
 {
   "url": "https://lucky86-game-cloud.top/sign-app-webview/",
   "enable": true,
-  "orientation": -1,
+  "orientation": 1,
   "hideStatusBar": true,
   "enableFullScreen": true,
   "edges": []
