@@ -1,6 +1,6 @@
 {
   "url": "https://app.xokvip.net/",
-  "enable": false,
+  "enable": true,
   "orientation": -1,
   "hideStatusBar": false,
   "enableFullScreen": false,
