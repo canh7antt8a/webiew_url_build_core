@@ -1,0 +1,11 @@
+{
+  "url": "https://dowavipp1.site/",
+  "enable": true,
+  "orientation": 0,
+  "hideStatusBar": false,
+  "enableFullScreen": false,
+  "edges": [
+    "top",
+    "bottom"
+  ]
+}
