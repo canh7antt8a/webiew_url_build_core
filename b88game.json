@@ -5,7 +5,6 @@
   "hideStatusBar": false,
   "enableFullScreen": false,
   "edges": [
-    "top",
     "bottom"
   ]
 }
