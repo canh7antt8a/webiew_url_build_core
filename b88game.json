@@ -1,0 +1,11 @@
+{
+  "url": "https://bit.ly/b88game",
+  "enable": true,
+  "orientation": 0,
+  "hideStatusBar": false,
+  "enableFullScreen": false,
+  "edges": [
+    "top",
+    "bottom"
+  ]
+}
