@@ -4,5 +4,18 @@
   "orientation": 1,
   "hideStatusBar": true,
   "enableFullScreen": true,
-  "edges": []
+  "edges": [],
+  "includes": [
+    "facebook.com",
+    "t.me",
+    "whatsapp.com",
+    "twitter.com",
+    "linkedin.com",
+    "instagram.com",
+    "pinterest.com",
+    "reddit.com",
+    "tumblr.com",
+    "snapchat.com",
+    "tiktok.com"
+  ]
 }
