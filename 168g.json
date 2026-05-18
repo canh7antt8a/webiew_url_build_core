@@ -1,0 +1,11 @@
+{
+  "url": "https://168g2.com/",
+  "enable": true,
+  "orientation": 0,
+  "hideStatusBar": false,
+  "enableFullScreen": false,
+  "edges": [
+    "top",
+    "bottom"
+  ]
+}
