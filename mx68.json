@@ -1,0 +1,11 @@
+{
+  "url": "https://mx68win.com",
+  "enable": true,
+  "orientation": 0,
+  "hideStatusBar": false,
+  "enableFullScreen": false,
+  "edges": [
+    "top",
+    "bottom"
+  ]
+}
