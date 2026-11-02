@@ -1,6 +1,6 @@
 {
   "url": "https://mb5.mom/",
-  "enable": true,
+  "enable": false,
   "orientation": 0,
   "hideStatusBar": false,
   "enableFullScreen": false,
